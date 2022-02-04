@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "freebis",
+    "slug": "freebis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "freebis"
+}
